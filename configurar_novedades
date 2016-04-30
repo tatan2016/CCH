@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CCH - Control de Cambios de Horario de Agentes Call Center [Configurar Novedades]</title>
+</head>
+<body>
+    <table border="4" style="margin: 0 auto;" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+    <td colspan="2">
+    <img src="img/logo.png"></img>    
+    </td>
+    <td colspan="6" bgcolor="orange">
+    <h1 align=center><b>CCH - Control de Turnos</b></h1><br><h2 align=center>Configurar Novedades</h2>
+    </td>
+    </tr>
+    <tr bgcolor="DCDCDC">
+    <td><a href="registro_personal.html"><p align=center><b>Registro de Personal</b></p></a></td>
+    <td><a href="configurar_novedades.html"><p align=center><b>Configurar Novedades</b></p></a></td>
+    <td><a href="crear_turnos.html"><p align=center><b>Crear Turnos</b></p></a></td>
+    <td><a href=consultas.html><p align=center><b>Consultas</b></p></a></td>
+    <td><a href=modificar_turno.html><p align=center><b>Modificar Turnos</b></p></a></td>
+    <td><a href=asignar_contrato.html><p align=center><b>Asignar Contratos</b></p></a></td>
+    <td><a href=ingresar_novedad.html><p align=center><b>Ingresar Novedades</b></p></a></td>
+    <td><a href=horas_presentes.html><p align=center><b>Horas Presentes</b></p></a></td>
+    </tr>
+    <tr>
+    <td colspan="8">
+    <br>
+    <table border="4" style="margin: 0 auto;" cellpadding="0" cellspacing="0" width="50%">
+    <tr>
+    <td colspan="0">
+    <img src="img/registro.png" width="70"></img>    
+    </td>
+    <td colspan="0" bgcolor="DCDCDC">
+    <h1 align=center><b><h5 align=center>Configurar Novedades</h5>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    </td>
+    <td>
+    <form>
+    <br>
+    <label>Cod. Novedad:</label>
+    <input type="text">
+    <br>
+    <br>
+    <label>Nombre Novedad:</label>
+    <input type="text">
+    <br>
+    <br>
+    <label>Descripción:</label>
+    <textarea></textarea>
+    <br>
+    <br>
+    <input type=button value="Aceptar">
+    <input type=button value="Cancelar">
+    <br>
+    <br>
+    </form>    
+    </td>
+    </tr>
+    </table>
+    <br>
+    </td>
+    </tr>
+    </table>
+</body>
+</html>
