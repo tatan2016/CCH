@@ -1,0 +1,25 @@
+{
+  "name": "Control de Cambios de Horario",
+  "homepage": "https://github.com/tatan2016/CCH",
+  "description": "El sistema permite controlar y gestionar los cambios de turno de los agentes de call center",
+  "main": "index.html",
+  "keywords": [
+    "cambios",
+    "turnos",
+    "call",
+    "center",
+    "gestionar",
+    "horarios"
+  ],
+  "authors": [
+    "Jorge Andrés Gálviz Hernández - Jhonatan Valencia Arango - tatanvalenciaarango@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
